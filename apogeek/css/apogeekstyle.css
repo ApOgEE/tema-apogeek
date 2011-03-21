@@ -1,0 +1,43 @@
+/*
+ * Rekabentuk Tema BLOG APOGEEK
+ * Pengarang: M. Fauzilkamil Zainuddin
+ * Keterangan: Ini adalah projek tema blog aku. ikut suka hati je aku buat ni
+ * 
+ */
+ 
+* { 
+	font-family: Arial;
+	font-size: 13px;
+}
+
+body {
+	background-color: #000000;
+	color: #ffffff;
+	margin:0;
+	padding:0;
+}
+
+#blogheader {
+	height: 250px;
+	background: url("../images/header.png") repeat-x;
+}
+
+#headcenter {
+	width: 920px;
+	margin:0 auto;
+}
+
+#blogbodycenter {
+	width: 920px;
+	margin:0 auto;
+}
+
+#blogfootercenter {
+	width: 920px;
+	margin:0 auto;
+}
+
+.copy {
+	float:right;
+	font-size:10px;
+}
